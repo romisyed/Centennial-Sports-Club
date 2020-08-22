@@ -1,0 +1,67 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+    <html>
+    <head>
+        <link href="~/css/StyleSheet.css" rel="stylesheet" />
+        <title>Club Details</title>
+    </head>
+    @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+    <body>
+        <header>
+            <div>
+                <p class="logo">
+                    <h1> Centennial Sports Club</h1>
+                </p>
+            </div>
+            <center>
+
+                <div class="dropdown">
+                    <form asp-action="ClubDetailsPage" method="post">
+                        <div>
+                            <a asp-action="ManagePlayersPage" asp-controller="Players">Click to Add Players to the Club</a>
+                        </div>
+
+                        <table id="t01">
+                            <thead>
+                                <tr>
+
+                                    <th> Club Name</th>
+                                    <th>Player Name</th>
+                                    <th>Terms & Conditions</th>
+                                    <th>Privacy Policy</th>
+                                    <th>Location</th>
+                                    <th>Update</th>
+                                    <th>Delete</th>
+
+                                </tr>
+                            </thead>
+                            @foreach (Syed_Rumail.Models.Clubs r in Model)
+                            {
+                                <tr>
+                                    <td>@r.Clubname</td>
+                                    <td>
+                                    </td>
+                                    <td>@r.Tandc</td>
+                                    <td>@r.PivacyPolicy</td>
+                                    <td>@r.Location</td>
+                                    <td>
+                                        <a asp-action="UpdateClubPage" asp-route-id="@r.Id" asp-controller="Clubs">
+                                            Update
+                                        </a>
+                                    </td>
+                                    <td>
+                                        <a asp-action="DeleteClub"  asp-route-id="@r.Id" asp-controller="Clubs">
+                                            Delete
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </table>
+
+
+
+                    </form>
+                </div>
+            </center>
+        </header>
+    </body>
+    </html>

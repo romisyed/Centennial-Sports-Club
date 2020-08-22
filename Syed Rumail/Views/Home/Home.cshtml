@@ -1,0 +1,22 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<html>
+<head>
+    <link href="~/css/StyleSheet.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <header>
+        <div class="clubs">
+            <p class="logo">
+                <h1> Centennial Sports Club</h1>
+            </p>
+            <ul class="main-tabs">
+                <li><a asp-action="ClubPage" asp-controller="Clubs">Club Page</a></li>
+                <li><a asp-action="AddClubPage" asp-controller="Clubs">Add Club Page</a></li>
+                <li><a asp-action="ClubDetailsPage" asp-controller="Clubs">Club Details Page</a></li>
+                <li><a asp-action="ManagePlayersPage" asp-controller="Players">Manage Players Page</a></li>
+            </ul>
+        </div>
+    </header>
+</body>
+</html>

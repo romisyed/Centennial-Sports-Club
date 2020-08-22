@@ -1,0 +1,65 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model Syed_Rumail.Models.Players
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/css/StyleSheet.css" rel="stylesheet" />
+    <title>Manage clubs</title>
+</head>
+<body>
+
+    <header>
+        <div>
+            <p class="logo">
+                <h1> Centennial Sports Club</h1>
+            </p>
+        </div>
+        <center>
+            <div class="dropdown">
+                <form asp-action="ManagePlayersPage" method="post">
+
+                    <h2 class="level">CENTENNIAL SPORTS PLAYERS</h2>
+
+
+
+                    <p>
+                        <label asp-for="Playername">Players Name</label>
+                    </p>
+                    <p>
+                        <input id="pp" asp-for="Playername" />
+                    </p>
+                    <p>
+                        <label asp-for="cId">List of Available Clubs</label>
+                    </p>
+                    <p>
+                        <select asp-for="cId">
+                            <option value="">Select a club</option>
+                            @foreach (var cl in ViewBag.Clubs)
+                            {
+                                <option value="@cl.Id">@cl.Clubname</option>
+                            }
+
+                        </select>
+                    </p>
+                    <p><label for="level">Skill Level</label></p>
+                    <p>
+                        <select class="level">
+                            <option value="beginner">Beginner</option>
+                            <option value="intermediate">Intermediate</option>
+                            <option value="advanced">Advanced</option>
+                        </select>
+                    </p>
+                    <input id="createbtn" type="submit" value="ADD CLUB">
+
+                    <input id="createbtn" type="submit" value="REASSIGN CLUB">
+
+                    <input id="createbtn" type="submit" value="DEREGISTER CLUB">
+
+                </form>
+            </div>
+        </center>
+    </header>
+</body>
+
+</html>

@@ -1,0 +1,22 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model Syed_Rumail.Models.Clubs
+
+                    <h3 class="level">Create New Club</h3>
+                    <label asp-for="Clubname">Club Name</label>
+                    <input type="text" id="pp" asp-for="Clubname" placeholder="Your Club Name is..." />
+
+                    <label asp-for="Tandc">Terms and Conditions</label>
+                    <input type="text" id="pp" asp-for="Tandc" placeholder="Type your Terms and Conditions here">
+
+                    <label asp-for="PivacyPolicy">Privacy Policy</label>
+                    <input type="text" id="pp" asp-for="PivacyPolicy" placeholder="Type your Privacy Policy here">
+
+                    <label asp-for="Location">Location</label>
+                    <select id="Loc" asp-for="Location" name="location">
+
+                        <option value="Canada">Canada</option>
+                        <option value="USA">USA</option>
+                        <option value="Australia">Australia</option>
+                    </select>
+
+                    

@@ -1,0 +1,29 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model Syed_Rumail.Models.Clubs
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/css/StyleSheet.css" rel="stylesheet" />
+    <title>Add clubs</title>
+</head>
+<body>
+    <header>
+        <div>
+            <p class="logo">
+                <h1> Centennial Sports Club</h1>
+            </p>
+        </div>
+        <center>
+            <div class="dropdown">
+                <form asp-action="UpdateClubPage" method="post">
+
+                    @Html.Partial("AddClubForm")
+                    <input id="createbtn" type="submit" value="Update">
+                    <button class="cancelbtn" asp-action="Index" asp-controller="Home">Cancel</button>
+                </form>
+            </div>
+        </center>
+    </header>
+</body>
+</html>

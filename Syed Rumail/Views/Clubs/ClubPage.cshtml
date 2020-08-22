@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Syed_Rumail.Models.Clubs>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/css/StyleSheet.css" rel="stylesheet" />
+    <title>Clubs</title>
+</head>
+<body>
+    <header>
+        <div>
+            <p class="logo">
+                <h1> Centennial Sports Club</h1>
+            </p>
+        </div>
+        <center>
+            <div class="dropdown">
+                <form asp-action="ClubPage" method="post">
+                    <h2>List of Clubs</h2>
+                   
+                   <table id="t01">
+                   
+
+                    <thead>Club Name</thead>
+                    <tr>
+                        <td>
+                            @foreach (Syed_Rumail.Models.Clubs r in Model)
+                            {
+                                <ul>
+                                    <li>
+                                        <a asp-action="ClubDetailsPage">@r.Clubname</a>
+                                    </li>
+                                </ul>
+                            }
+                        </td>
+                    </tr>
+                    
+                </table>
+                    
+
+                
+                    </form>
+            </div>
+        </center>
+    </header>
+</body>
+
+</html>
+

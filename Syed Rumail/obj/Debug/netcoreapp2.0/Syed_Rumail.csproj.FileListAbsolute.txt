@@ -1,0 +1,114 @@
+C:/Users/301093045/Desktop/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.csprojAssemblyReference.cache
+C:/Users/301093045/Desktop/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.AssemblyInfoInputs.cache
+C:/Users/301093045/Desktop/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.AssemblyInfo.cs
+C:/Users/301093045/Desktop/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+C:/Users/301093045/Desktop/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.deps.json
+C:/Users/301093045/Desktop/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.runtimeconfig.json
+C:/Users/301093045/Desktop/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.runtimeconfig.dev.json
+C:/Users/301093045/Desktop/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.dll
+C:/Users/301093045/Desktop/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.pdb
+C:/Users/301093045/Desktop/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.dll
+C:/Users/301093045/Desktop/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.pdb
+C:/Users/301093045/Desktop/Syed_Rumail (1)/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+C:/Users/301093045/Desktop/Syed_Rumail (1)/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.deps.json
+C:/Users/301093045/Desktop/Syed_Rumail (1)/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.runtimeconfig.json
+C:/Users/301093045/Desktop/Syed_Rumail (1)/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.runtimeconfig.dev.json
+C:/Users/301093045/Desktop/Syed_Rumail (1)/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.dll
+C:/Users/301093045/Desktop/Syed_Rumail (1)/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.pdb
+C:/Users/301093045/Desktop/Syed_Rumail (1)/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.csprojAssemblyReference.cache
+C:/Users/301093045/Desktop/Syed_Rumail (1)/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.AssemblyInfoInputs.cache
+C:/Users/301093045/Desktop/Syed_Rumail (1)/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.AssemblyInfo.cs
+C:/Users/301093045/Desktop/Syed_Rumail (1)/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.dll
+C:/Users/301093045/Desktop/Syed_Rumail (1)/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.pdb
+C:/Users/301093045/Downloads/Syed_Rumail/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+C:/Users/301093045/Downloads/Syed_Rumail/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.deps.json
+C:/Users/301093045/Downloads/Syed_Rumail/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.runtimeconfig.json
+C:/Users/301093045/Downloads/Syed_Rumail/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.runtimeconfig.dev.json
+C:/Users/301093045/Downloads/Syed_Rumail/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.dll
+C:/Users/301093045/Downloads/Syed_Rumail/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.pdb
+C:/Users/301093045/Downloads/Syed_Rumail/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.csprojAssemblyReference.cache
+C:/Users/301093045/Downloads/Syed_Rumail/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.AssemblyInfoInputs.cache
+C:/Users/301093045/Downloads/Syed_Rumail/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.AssemblyInfo.cs
+C:/Users/301093045/Downloads/Syed_Rumail/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.dll
+C:/Users/301093045/Downloads/Syed_Rumail/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.pdb
+/Users/SL-Revathi/Documents/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.csprojAssemblyReference.cache
+/Users/SL-Revathi/Documents/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.AssemblyInfoInputs.cache
+/Users/SL-Revathi/Documents/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.AssemblyInfo.cs
+/Users/SL-Revathi/Documents/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.dll
+/Users/SL-Revathi/Documents/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.pdb
+/Users/SL-Revathi/Documents/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Users/SL-Revathi/Documents/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.deps.json
+/Users/SL-Revathi/Documents/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.runtimeconfig.json
+/Users/SL-Revathi/Documents/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.runtimeconfig.dev.json
+/Users/SL-Revathi/Documents/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.dll
+/Users/SL-Revathi/Documents/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.pdb
+C:/Users/lovel/Downloads/Syed_Rumail (2)/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+C:/Users/lovel/Downloads/Syed_Rumail (2)/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.deps.json
+C:/Users/lovel/Downloads/Syed_Rumail (2)/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.runtimeconfig.json
+C:/Users/lovel/Downloads/Syed_Rumail (2)/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.runtimeconfig.dev.json
+C:/Users/lovel/Downloads/Syed_Rumail (2)/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.dll
+C:/Users/lovel/Downloads/Syed_Rumail (2)/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.pdb
+C:/Users/lovel/Downloads/Syed_Rumail (2)/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.csprojAssemblyReference.cache
+C:/Users/lovel/Downloads/Syed_Rumail (2)/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.AssemblyInfoInputs.cache
+C:/Users/lovel/Downloads/Syed_Rumail (2)/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.AssemblyInfo.cs
+C:/Users/lovel/Downloads/Syed_Rumail (2)/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.dll
+C:/Users/lovel/Downloads/Syed_Rumail (2)/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.pdb
+C:/Users/lovel/source/repos/arch/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+C:/Users/lovel/source/repos/arch/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.deps.json
+C:/Users/lovel/source/repos/arch/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.runtimeconfig.json
+C:/Users/lovel/source/repos/arch/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.runtimeconfig.dev.json
+C:/Users/lovel/source/repos/arch/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.dll
+C:/Users/lovel/source/repos/arch/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.pdb
+C:/Users/lovel/source/repos/arch/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.csprojAssemblyReference.cache
+C:/Users/lovel/source/repos/arch/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.AssemblyInfoInputs.cache
+C:/Users/lovel/source/repos/arch/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.AssemblyInfo.cs
+C:/Users/lovel/source/repos/arch/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.dll
+C:/Users/lovel/source/repos/arch/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.pdb
+/Users/SL-Revathi/Downloads/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Users/SL-Revathi/Downloads/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.deps.json
+/Users/SL-Revathi/Downloads/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.runtimeconfig.json
+/Users/SL-Revathi/Downloads/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.runtimeconfig.dev.json
+/Users/SL-Revathi/Downloads/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.dll
+/Users/SL-Revathi/Downloads/Syed_Rumail/Syed_Rumail/bin/Debug/netcoreapp2.0/Syed_Rumail.pdb
+/Users/SL-Revathi/Downloads/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.csprojAssemblyReference.cache
+/Users/SL-Revathi/Downloads/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.AssemblyInfoInputs.cache
+/Users/SL-Revathi/Downloads/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.AssemblyInfo.cs
+/Users/SL-Revathi/Downloads/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.dll
+/Users/SL-Revathi/Downloads/Syed_Rumail/Syed_Rumail/obj/Debug/netcoreapp2.0/Syed_Rumail.pdb
+C:\Users\lovel\Downloads\Syed_Rumail 2\Syed_Rumail\Syed_Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.csprojAssemblyReference.cache
+C:\Users\lovel\Downloads\Syed_Rumail 2\Syed_Rumail\Syed_Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.AssemblyInfoInputs.cache
+C:\Users\lovel\Downloads\Syed_Rumail 2\Syed_Rumail\Syed_Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.AssemblyInfo.cs
+C:\Users\lovel\Downloads\Syed_Rumail 2\Syed_Rumail\Syed_Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.dll
+C:\Users\lovel\Downloads\Syed_Rumail 2\Syed_Rumail\Syed_Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.pdb
+C:\Users\lovel\Downloads\Syed_Rumail 2\Syed_Rumail\Syed_Rumail\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\lovel\Downloads\Syed_Rumail 2\Syed_Rumail\Syed_Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.deps.json
+C:\Users\lovel\Downloads\Syed_Rumail 2\Syed_Rumail\Syed_Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.runtimeconfig.json
+C:\Users\lovel\Downloads\Syed_Rumail 2\Syed_Rumail\Syed_Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.runtimeconfig.dev.json
+C:\Users\lovel\Downloads\Syed_Rumail 2\Syed_Rumail\Syed_Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.dll
+C:\Users\lovel\Downloads\Syed_Rumail 2\Syed_Rumail\Syed_Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.pdb
+C:\Users\lovel\source\repos\arch\Syed_Rumail\Syed_Rumail\Syed_Rumail\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\lovel\source\repos\arch\Syed_Rumail\Syed_Rumail\Syed_Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.deps.json
+C:\Users\lovel\source\repos\arch\Syed_Rumail\Syed_Rumail\Syed_Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.runtimeconfig.json
+C:\Users\lovel\source\repos\arch\Syed_Rumail\Syed_Rumail\Syed_Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.runtimeconfig.dev.json
+C:\Users\lovel\source\repos\arch\Syed_Rumail\Syed_Rumail\Syed_Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.dll
+C:\Users\lovel\source\repos\arch\Syed_Rumail\Syed_Rumail\Syed_Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.pdb
+C:\Users\lovel\source\repos\arch\Syed_Rumail\Syed_Rumail\Syed_Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.csprojAssemblyReference.cache
+C:\Users\lovel\source\repos\arch\Syed_Rumail\Syed_Rumail\Syed_Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.AssemblyInfoInputs.cache
+C:\Users\lovel\source\repos\arch\Syed_Rumail\Syed_Rumail\Syed_Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.AssemblyInfo.cs
+C:\Users\lovel\source\repos\arch\Syed_Rumail\Syed_Rumail\Syed_Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.dll
+C:\Users\lovel\source\repos\arch\Syed_Rumail\Syed_Rumail\Syed_Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.pdb
+C:\Users\lovel\source\repos\arch\Syed_Rumail\Syed_Rumail\Syed_Rumail\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Romi\Desktop\Syed_Rumail\Syed Rumail\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Romi\Desktop\Syed_Rumail\Syed Rumail\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Romi\Desktop\Syed_Rumail\Syed Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.deps.json
+C:\Users\Romi\Desktop\Syed_Rumail\Syed Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.runtimeconfig.json
+C:\Users\Romi\Desktop\Syed_Rumail\Syed Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.runtimeconfig.dev.json
+C:\Users\Romi\Desktop\Syed_Rumail\Syed Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.dll
+C:\Users\Romi\Desktop\Syed_Rumail\Syed Rumail\bin\Debug\netcoreapp2.0\Syed_Rumail.pdb
+C:\Users\Romi\Desktop\Syed_Rumail\Syed Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.csprojAssemblyReference.cache
+C:\Users\Romi\Desktop\Syed_Rumail\Syed Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.AssemblyInfoInputs.cache
+C:\Users\Romi\Desktop\Syed_Rumail\Syed Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.AssemblyInfo.cs
+C:\Users\Romi\Desktop\Syed_Rumail\Syed Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.csproj.CoreCompileInputs.cache
+C:\Users\Romi\Desktop\Syed_Rumail\Syed Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.dll
+C:\Users\Romi\Desktop\Syed_Rumail\Syed Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.pdb
+C:\Users\Romi\Desktop\Syed_Rumail\Syed Rumail\obj\Debug\netcoreapp2.0\Syed_Rumail.genruntimeconfig.cache

@@ -1,0 +1,127 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.5)), url(https://www.pixel4k.com/wp-content/uploads/2019/12/pride-black-abstract_1575661461.jpg);
+    height: 140vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.main-tabs {
+    float: left;
+    list-style: none;
+    margin-top: 30px;
+}
+
+    .main-tabs li {
+        display: inline-block;
+    }
+
+        .main-tabs li a {
+            color: white;
+            text-decoration: none;
+            padding: 5px 20px;
+            font-family: "Roboto",sans-serif;
+            font-size: 15px;
+        }
+
+            .main-tabs li a:hover {
+                border: 1px solid white;
+            }
+
+.dropdown {
+    margin-top: 20px;
+    display: inline-block;
+    width: 93.34%;
+    font-family: "Roboto",sans-serif;
+    text-align: center;
+}
+
+select.clubs {
+    margin-bottom: 0.625rem;
+}
+
+input.name {
+    margin-bottom: 0.625rem;
+}
+
+select.level {
+    margin-bottom: 0.625rem;
+}
+
+input.level {
+    margin-bottom: 0.625rem;
+}
+
+h2.level {
+    margin-bottom: 0.625rem;
+    margin-top: 0.625rem;
+}
+
+
+table#t01 {
+    margin-top: 10px;
+    width: 100%;
+}
+
+    table#t01 th, td {
+        border: 1px solid black;
+        padding: 10px;
+    }
+
+h4.policies {
+    margin-bottom: 0.625rem;
+    margin-top: 0.625rem;
+   
+}
+
+input[id=pp], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    width: 100%;
+    background-color: #808080;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.cancelbtn {
+    width: 100%;
+    background-color: #808080;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[id=createbtn]:hover {
+    background-color: #808080;
+}
+
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+#club th td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: left;
+}
